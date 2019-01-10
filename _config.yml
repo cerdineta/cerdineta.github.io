@@ -13,3 +13,8 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  blog:
+    output: true
+
