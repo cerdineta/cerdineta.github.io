@@ -1,8 +1,8 @@
 <header class="site-header">
-  <a class="site-title" href="{{ site.baseurl }}/"><img src="holder.js/500x150"></a>
+  <a class="site-title" href="{{ site.baseurl }}/"><img src="holder.js/600x150"></a>
     
-  <nav class="navbar">
 
+  <nav class="navbar">
   <div class="row">
   <div class="column">
     <ul> 
@@ -27,6 +27,21 @@
         </li>
         {% endif %}
 
+
+
+        {% if site.instagram_username %}
+        <li>
+          <a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >
+            <span class="icon  icon--instagram">
+		<img src='/images/instagram_icon.png' >
+            </span>
+
+            <span class="username">{{ site.instagram_username }}</span>
+          </a>
+        </li>
+        {% endif %}
+
+
         {% if site.twitter_username %}
         <li>
           <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -44,7 +59,6 @@
       </ul>
 
   </div>
-
   </nav>
 
 </header>
