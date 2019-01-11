@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: about
 permalink: /about/
 ---
-
 
 Tania Manzanal Cerda
 
