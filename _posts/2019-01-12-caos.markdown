@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Caos"
+date:   2015-10-07 15:39:40
+preview: /images/caosminiatura.jpg
+---
+
+Litografia sobre planxa d'offset d'una iIl·lustració personal.
+
+![Picture 1](/images/caos.jpg)

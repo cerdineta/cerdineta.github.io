@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "la moda | Joan Brossa"
+date:   2015-10-07 15:39:40
+preview: /images/lamodaminiatura.jpg
+
+---
+
+Il·lustració sel·leccionada per l'exposició itinerant del Festival FLIC 2018 "Literatura i joc". Realitzada amb tinta xina sobre paper únic fet a mà del Molí Paperer de Capellades. Basada en el poema següent:
+
+
+<div class="row">
+
+<div class="column">
+ <img src="/images/lamoda.jpg" alt="drawing" width="400">
+
+</div>
+ <div class="column">
+
+<i><h3>La moda</h3>
+
+Aquest barret de palla negra<br>
+s’ha tornat de color girs brut.<br>
+Per què no el pintes amb betum<br>
+del mateix que fas servier per a les<br>
+sabates?<br>
+Aquest barret de palla groga<br>
+o blanca,<br>
+el podràs tornar a fer servir<br>
+si el fregues amb betum ros, igual<br>
+que el de les sabates.<br>
+I aqui tens aquest bombi de feltre.<br>
+I aqui, una gorra o una boina.<br>
+Gorres, bombins de feltre i boines<br>
+per a cobrir el globus terraqui.<br><br>
+<h5 align="center">Joan Brossa</h5></i>
+</div>
+</div>
