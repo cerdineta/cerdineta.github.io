@@ -6,34 +6,28 @@
 
   <nav class="navbar">
     <ul>
-      <li class="nav-item"><a href="{{ site.baseurl }}/"><img src='/images/iconahome.png' width="26">home</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/blog/"><img src='/images/iconablog.png' width="30">blog</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/about/"><img src='/images/iconaabout.png' width="30">about</a></li>
-      <li class="nav-item">
+      <li class="nav-item"><a href="{{ site.baseurl }}/"><img src='/images/iconahome.png' width="26" title="home"/a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/blog/"><img src='/images/iconablog.png' width="28" title="blog"/a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/about/"><img src='/images/iconaabout.png' width="30" title="about"/a></li>
 
-        {% if site.instagram_username %}
-          <a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >
+      <li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >
             <span class="icon  icon--instagram">
-		            <img src='/images/iconainstagram.png' width="26">
+		            <img src='/images/iconainstagram.png' width="26" title="instagram">
             </span>
-              <span class="username">{{ site.instagram_username }}</span>
-
-          </a>
-        {% endif %}
 
 
-        {% if site.behance_username %}
-          <a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >
+          </a></li>
+
+
+
+
+        <li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >
             <span class="icon  icon--behance">
-		            <img src='/images/iconabehance.png' width="26">
+		            <img src='/images/iconabehance.png' width="27" title="behance">
             </span>
-              <span class="username">{{ site.behance_username }}</span>
-
-          </a>
-        {% endif %}
 
 
-      </li>
+          </a></li>
     </ul>
       <ul class="social-media-list">
         {% if site.github_username %}
