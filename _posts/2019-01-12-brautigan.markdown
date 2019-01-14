@@ -5,7 +5,8 @@ date:   2015-10-07 15:39:40
 preview: /images/brautiganpetit.jpg
 ---
 
-![Picture 1](/images/brautigangrannet.jpg)
- <img src="/images/brt.jpg" alt="drawing" width="500">
+Dry-point etching on tetrapack. Hommage to Richard Brautigan, which wrote some of my favorite lines. If you don't know him click <a href="https://www.poetryfoundation.org/poems/48580/december-30">here</a>.
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Punta seca sobre tetrabrick. Homenatge a l'escriptor nord-americà Richard Brautigan.
+
+![Picture 1](/images/brautigangrannet.jpg)

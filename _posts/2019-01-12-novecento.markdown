@@ -14,5 +14,9 @@ Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biaz
 
 </div>
  <div class="column">
-<img src="/images/novecento1.jpg" alt="drawing" width="400">
+<img src="/images/novecento2.jpg" alt="drawing" width="400">
+ </div>
+
+ <div class="column">
+<img src="/images/novecento2.jpg" alt="drawing" width="400">
  </div>
