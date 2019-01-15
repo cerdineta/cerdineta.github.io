@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "cuento chino"
+title:  "el final del deseo"
 date:   2015-10-07 15:39:40
 preview: /images/tania conte miniatura2.jpg
 ---
 
+ALbum illustrations of the tale  ("The end of desire"). Spreads.
 
+Album il·llustrat del conte "El final del deseo". Dobles pàgines.
 
 ![Picture 1](/images/tania conte petit-1.jpg)
 

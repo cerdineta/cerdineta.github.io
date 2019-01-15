@@ -6,9 +6,29 @@ permalink: /about/
 
 
 <div class="row">
-<div class="column">
 
 
+<div class="column-33">
+
+
+  <img src="/images/selfportrait.jpg" alt="drawing" width="250"><br>
+
+<mark>cerdineta[at]gmail.com</mark><br>
+
+<a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >instagram</a><br>
+
+  <a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >behance</a><br>
+
+  <a href="{{ site.baseurl }}/blog/">blog</a><br>
+
+
+
+
+</div>
+
+<div class="column-75">
+
+<p align="left">
 <b>Tània Manzanal Cerdà</b> <br>
 
 1992, Puigcerdà <br>
@@ -25,24 +45,6 @@ Napa flipbook competition <font color="#919090">2n prize for flipbook "It is goi
 FLIC Network <font color="#919090">Collective exhibition "Literature and play" 2018</font><br>
 Alliance Française/Goethe Institut of Bologna <font color="#919090">Collective exhibition "Alphabets" 2018</font><br>
 Festival BILL <font color="#919090">Collective exhibition "Chaos" 2018</font><br>
+</p>
 </div>
-
-<div class="column-60">
-
-
-  <img src="/images/selfportrait.jpg" alt="drawing" width="300"><br>
-
-<mark>cerdineta[at]gmail.com</mark><br>
-
-<a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >instagram</a><br>
-
-  <a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >behance</a><br>
-
-  <a href="{{ site.baseurl }}/blog/">blog</a><br>
-
-
-
-
-
-
 </div>
