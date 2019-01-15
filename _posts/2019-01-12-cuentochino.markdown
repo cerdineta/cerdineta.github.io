@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "chinese tale, cuento chino"
+title:  "cuento chino"
 date:   2015-10-07 15:39:40
 preview: /images/tania conte miniatura2.jpg
 ---

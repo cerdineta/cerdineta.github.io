@@ -1,47 +1,48 @@
 ---
 layout: post
-title: about
+title: about & contact
 permalink: /about/
 ---
+
+
 <div class="row">
-
 <div class="column">
-<img src="/images/selfportrait.jpg" alt="drawing" width="300"><br>
 
 
-<a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >
-    <span class="icon  icon--instagram">
-        <img src='/images/iconainstagram.png' width="26"> </span>
-      <span class="username">{{ site.instagram_username }}</span>
+<b>Tània Manzanal Cerdà</b> <br>
 
-  </a><br>
+1992, Puigcerdà <br>
 
-  <a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >
-    <span class="icon  icon--behance">
-        <img src='/images/iconabehance.png' width="26">
-    </span>
-      <span class="username">{{ site.behance_username }}</span>
+Currently based in Madrid <br><br>
 
-  </a><br>
 
-  <a href="{{ site.baseurl }}/blog/"><img src='/images/iconablog.png' width="27"> blog</a><br>
+<b>Education</b><br>
+Illustration <font color="#919090">Escola Massana 2018</font><br>
+Nanoscience <font color="#919090">Autonomous University of Barcelona 2014</font><br><br>
+
+<b>Exhibitions and awards</b><br>
+Napa flipbook competition <font color="#919090">2n prize for flipbook "It is going to be okay" 2018</font><br>
+FLIC Network <font color="#919090">Collective exhibition "Literature and play" 2018</font><br>
+Alliance Française/Goethe Institut of Bologna <font color="#919090">Collective exhibition "Alphabets" 2018</font><br>
+Festival BILL <font color="#919090">Collective exhibition "Chaos" 2018</font><br>
+</div>
+
+<div class="column-60">
+
+
+  <img src="/images/selfportrait.jpg" alt="drawing" width="300"><br>
+
+<mark>cerdineta[at]gmail.com</mark><br>
+
+<a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >instagram</a><br>
+
+  <a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >behance</a><br>
+
+  <a href="{{ site.baseurl }}/blog/">blog</a><br>
+
+
 
 
 
 
 </div>
- <div class="column">
-
-
- <b>Tania Manzanal Cerda</b> <br>
-
- 1992, Puigcerdà <br><br>
-
- Currently based in Madrid <br>
- </div>
-  </div><br>
-
-Collective exhibitions
-
-Education
-Believe it or not I hold a degree in Nanoscience from the Autonomous University of Barcelona

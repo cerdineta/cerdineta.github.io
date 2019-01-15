@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "other projects"
+date:   2015-10-07 15:39:40
+preview: /images/terms and conditions mini.jpg
+---
+
+
+---
+
+Submission for the billboard art festival Art Moves in Torun, Poland. This years topic was  "Who governs our lives: we ourselves, other people or algorithms?"
+
+![Picture 1](/images/terms and conditions.jpg)
+
+
+---
+
+The artisan's tool. Design for the Artisans Association of Barcelona.
+
+<img src="/images/bossaartesania mockup.jpg" alt="drawing" width="800">
+
+<div class="row">
+
+<div class="column-66">
+ <img src="/images/bossaartesania mockup.jpg" alt="drawing" width="800">
+
+</div>
+
+
+ <div class="column-33">The artisan's tool. Design for the Artisans Association of Barcelona.</div>
+ </div>
