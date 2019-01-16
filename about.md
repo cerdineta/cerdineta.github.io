@@ -19,7 +19,7 @@ permalink: /about/
 
   <a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >behance</a><br>
 
-  <a href="{{ site.baseurl }}/blog/">blog</a><br>
+  <a href="{{ site.baseurl }}/blog/">blog</a><br><br> 
 
 
 

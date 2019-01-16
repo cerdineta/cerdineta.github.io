@@ -7,6 +7,6 @@ preview: /images/flipbooksmini1.jpg
 
 ![Picture 1](/images/flipbooks 1.jpg)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+All of them have 70 pages and I plan to make a small edition of two of them: "Everything is going to be okay" and "I will protect you".
 
 ![Picture 2](/images/flipbooktrist.gif)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Yo Bitcha!"
+title:  "the birth of this very website"
 date:   2015-01-10 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: /images/blog1mini.jpg
 ---
 
 ![Picture 1](/images/jord.jpg)

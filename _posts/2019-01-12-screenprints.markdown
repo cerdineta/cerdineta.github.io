@@ -6,8 +6,7 @@ preview: /images/gatserimini3.jpg
 ---
 
 
-
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+The following images were created for a collective calendar for the year 2019 made with the team of <a href="https://yuncuernoediciones.tumblr.com/">¡Y UN CUERNO! EDICIONES</a> then I adapted them for being produced as screen prints. I make all screenprints at home in a completely analogic way with hand made transparencies. You can learn more about the process in my <a href="{{ site.baseurl }}/blog/">blog</a>.
 
 <div class="row">
 
@@ -19,6 +18,3 @@ Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biaz
 <img src="/images/seri2.jpg" alt="drawing" width="400">
  </div>
  </div>
-
-
-![Picture 1]

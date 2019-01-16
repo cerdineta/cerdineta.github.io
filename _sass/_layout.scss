@@ -56,13 +56,49 @@
  * Misc
  */
 .preview-panel {
-    padding: 1rem;
-    box-sizing: border-box;
-    border: 1px solid $color-initial;
 
-    &:hover {
-        border: 1px solid $grey-color-light;
-        
-    }
 
+
+
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 19px;
+  right: -19px;
+  height: 97%;
+  width: 86%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #ffffff;
+}
+
+.container:hover .overlay {
+  opacity: 0.7;
+
+}
+
+.text {
+  color: #3a57bb;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
 }
