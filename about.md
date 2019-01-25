@@ -19,7 +19,7 @@ permalink: /about/
 
   <a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >behance</a><br>
 
-  <a href="{{ site.baseurl }}/blog/">blog</a><br><br> 
+  <a href="{{ site.baseurl }}/blog/">blog</a><br><br>
 
 
 
@@ -33,7 +33,7 @@ permalink: /about/
 
 1992, Puigcerdà <br>
 
-Currently based in Madrid <br><br>
+ <br>
 
 
 <b>Education</b><br>
