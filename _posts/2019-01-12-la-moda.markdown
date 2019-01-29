@@ -5,8 +5,24 @@ date:   2015-10-07 15:39:40
 preview: /images/lamodaminiatura.jpg
 
 ---
+<div class="row">
 
-Il·lustració sel·leccionada per l'exposició itinerant del Festival FLIC 2018 "Literatura i joc". Realitzada amb tinta xina sobre paper únic fet a mà del Molí Paperer de Capellades. Basada en el poema següent:
+<div class="column">
+
+ENG<br>
+Indian ink drawing on handmade paper. Illustration selected for collective exhibition FLIC 2018 based on the poem "La moda" by Joan Brossa.<br>
+</div>
+
+  <div class="column">
+  <font color="#808080">
+  CAT<br>
+  Il·lustració sel·leccionada per l'exposició itinerant del Festival FLIC 2018 "Literatura i joc". Realitzada amb tinta xina sobre paper únic fet a mà del Molí Paperer de Capellades. Basada en el poema següent:</font>
+
+</div>
+
+
+
+ </div>
 
 
 <div class="row">
@@ -15,9 +31,9 @@ Il·lustració sel·leccionada per l'exposició itinerant del Festival FLIC 2018
  <img src="/images/lamoda.jpg" alt="drawing" width="400">
 
 </div>
- <div class="column">
+ <div class="column"><br>
 
-<i><h3>La moda</h3>
+<font color="#808080"><i><h3>La moda</h3><br>
 
 Aquest barret de palla negra<br>
 s’ha tornat de color girs brut.<br>
@@ -33,6 +49,6 @@ I aqui tens aquest bombi de feltre.<br>
 I aqui, una gorra o una boina.<br>
 Gorres, bombins de feltre i boines<br>
 per a cobrir el globus terraqui.<br><br>
-<h5 align="center">Joan Brossa</h5></i>
+<h5 align="center">Joan Brossa</h5></i></font>
 </div>
 </div>

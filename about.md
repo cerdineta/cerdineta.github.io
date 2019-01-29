@@ -13,7 +13,8 @@ permalink: /about/
 
   <img src="/images/selfportrait.jpg" alt="drawing" width="250"><br>
 
-<mark>cerdineta[at]gmail.com</mark><br>
+
+<mark><b>cerdineta[at]gmail.com</b></mark><br>
 
 <a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >instagram</a><br>
 
@@ -29,6 +30,7 @@ permalink: /about/
 <div class="column-75">
 
 <p align="left">
+
 <b>Tània Manzanal Cerdà</b> <br>
 
 1992, Puigcerdà <br>
@@ -44,7 +46,8 @@ Nanoscience <font color="#919090">Autonomous University of Barcelona 2014</font>
 Napa flipbook competition <font color="#919090">2n prize for flipbook "It is going to be okay" 2018</font><br>
 FLIC Network <font color="#919090">Collective exhibition "Literature and play" 2018</font><br>
 Alliance Française/Goethe Institut of Bologna <font color="#919090">Collective exhibition "Alphabets" 2018</font><br>
-Festival BILL <font color="#919090">Collective exhibition "Chaos" 2018</font><br>
+Festival BILL <font color="#919090">Collective exhibition "Chaos" 2018</font><br><br>
+I hope my email in bold and highlighted encourages you to write me a message.
 </p>
 </div>
 </div>

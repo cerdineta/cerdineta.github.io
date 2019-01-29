@@ -5,9 +5,22 @@ date:   2015-10-07 15:39:40
 preview: /images/tania conte miniatura2.jpg
 ---
 
-ALbum illustrations of the tale  ("The end of desire"). Spreads.
 
-Album il·llustrat del conte "El final del deseo". Dobles pàgines.
+<div class="row">
+
+  <div class="column">
+  ENG<br>
+  ALbum illustrations of the tale  ("The end of desire").<br> 4 spreads.
+</div>
+
+   <div class="column">
+   <font color="#808080">
+   CAT<br>
+   Album il·llustrat del conte "El final del deseo".<br> 4 dobles pàgines.</font><br>
+   </div>
+
+ </div>
+
 
 ![Picture 1](/images/tania conte petit-1.jpg)
 

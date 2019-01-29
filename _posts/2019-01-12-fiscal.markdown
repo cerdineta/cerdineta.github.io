@@ -4,9 +4,21 @@ title:  "fiscal havens"
 date:   2015-10-07 15:39:40
 preview: /images/fiscalspetit.jpg
 ---
-Press illustration about fiscal havens and its consequences. Big title illustration in the page layout plus three spots.
 
-Il·lustraci de premsa acompanyant un article sobre els paradisos fiscals i les seves implicacions. Conjunt d'una imatge gran que acompanya el titol i de tres de petites repartides dins l'article.
+<div class="row">
+
+  <div class="column">
+  ENG<br>
+  Press illustration about fiscal havens and its consequences. Big title illustration in its page layout plus three spots.
+</div>
+
+   <div class="column">
+   <font color="#808080">
+   CAT<br>
+   Il·lustració de premsa acompanyant un article sobre els paradisos fiscals i les seves implicacions. La imatge gran acompanya el titol i les tres de petites van repartides dins l'article.</font><br>
+   </div>
+
+ </div>
 
 ![Picture 1](/images/paradisosfiscals.jpg)
 
