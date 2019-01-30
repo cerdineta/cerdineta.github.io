@@ -5,22 +5,7 @@ date:   2015-10-07 15:39:40
 preview: /images/zineulls.jpg
 ---
 
-<div class="row">
 
-  <div class="column">
-  ENG<br>
-  Little zine about eyes and gazes. 8 pages 2 color riso printed.<br>
-</div>
-
-   <div class="column">
-   <font color="#808080">
-   CAT<br>
-   Petit fanzine sobre ulls i mirades. 8 pàgines risografia a 2 colors</font><br>
-   </div>
-
-
-
- </div>
 
 
 <div class="row">
@@ -51,3 +36,20 @@ preview: /images/zineulls.jpg
     </div>
 
  </div>
+
+ <div class="row">
+
+   <div class="column">
+   ENG<br>
+   Little zine about eyes and gazes. 8 pages 2 color riso printed.<br>
+ </div>
+
+    <div class="column">
+    <font color="#808080">
+    CAT<br>
+    Petit fanzine sobre ulls i mirades. 8 pàgines risografia a 2 colors</font><br>
+    </div>
+
+
+
+  </div>

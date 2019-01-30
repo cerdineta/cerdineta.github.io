@@ -5,7 +5,7 @@ date:   2015-10-07 15:39:40
 preview: /images/brautiganpetit.jpg
 ---
 
-
+ ![Picture 1](/images/brautigangrannet.jpg)
 
 <div class="row">
 
@@ -21,5 +21,3 @@ Dry-point etching on tetrapack. Hommage to Richard Brautigan, which wrote some o
    </div>
 
  </div>
-
- ![Picture 1](/images/brautigangrannet.jpg)

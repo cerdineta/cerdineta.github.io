@@ -5,6 +5,7 @@ date:   2015-10-09 15:39:40
 preview: /images/alphabets1 300x300.jpg
 ---
 
+![Picture 1](/images/alphabetsgran.jpg)
 
 <div class="row">
 
@@ -22,7 +23,7 @@ preview: /images/alphabets1 300x300.jpg
 
  </div>
 
-![Picture 1](/images/alphabetsgran.jpg)
+
 
 
 <font color="#919090">La meva intenció era explorar la idea de l'alfabet com a sistema que permet de construir infinitat de significats partint d'un numero limitat de blocs de construcció que són les lletres que el conformen i alhora insinuar la inestabilitat de la construcció.

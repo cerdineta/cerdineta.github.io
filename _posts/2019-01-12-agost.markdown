@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2018 calendar"
+date:   2015-10-07 15:39:40
+preview: /images/seriagostmini.jpg
+---
+
+![Picture 1](/images/seriagost.jpg)
+
+<div class="row">
+
+  <div class="column">
+  ENG<br>
+  This image was created for a collective calendar for the year 2018 made with a group of classmates in Massana and corresponds to the month of august. Then I adapted it for being produced as a screen print. <br>
+  </div>
+
+   <div class="column">
+   <font color="#808080">
+   CAT<br>
+   Aquestes imatge va ser la imatge del mes d'agost per a un calendari col.lectiu fet amb un grup de companys de classe a la Massana. Més tard, vaig decidir reproduir-la en serigrafia en blanc i blau sobre paper rosa.

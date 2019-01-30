@@ -6,12 +6,14 @@ date:   2015-10-07 15:39:40
 preview: /images/quadrat portada.jpg
 ---
 
+![Picture 1](/images/acne blog.jpg)
+
 <font color="#808080">
 CAT<br>
 Aquest zine, titulat GR-4 (GR-A), va ser inspirat per quelcom que vaig viure a la meva pròpia pell (ha!). Durant un temps vaig patir acné adult bastant fort. Un dia se'm va acudir que semblava que els grans mai desapareixien, sino que més aviat es desplaçàven d'un lloc a un altre de la meva cara. S'hi passejaven, acampaven un temps en un lloc i llavors canviàven. La idea em va fer gràcia i vaig voler fer-ne un petit còmic.
 N'he produit una petita edicio de 12 exemplars impresos en serigrafia manual a 3 colors. Per més informacio sobre el procés d'impressio podeu visitar el <a href="{{ site.baseurl }}/blog/">blog</a>.</font><br>
 
-![Picture 1](/images/acne blog.jpg)
+
 
 <div class="row">
 

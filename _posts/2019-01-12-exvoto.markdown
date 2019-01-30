@@ -5,6 +5,7 @@ date:   2015-10-08 15:39:40
 preview: /images/exvotpetit2.jpg
 ---
 
+![Picture 1](/images/exvotgran.jpg)
 
 <div class="row">
 
@@ -26,5 +27,3 @@ preview: /images/exvotpetit2.jpg
    </div>
 
  </div>
-
-![Picture 1](/images/exvotgran.jpg)

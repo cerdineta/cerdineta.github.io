@@ -5,6 +5,8 @@ date:   2015-10-07 15:39:40
 preview: /images/caosminiatura.jpg
 ---
 
+![Picture 1](/images/caos.jpg)
+
 <div class="row">
 
   <div class="column">
@@ -19,5 +21,3 @@ preview: /images/caosminiatura.jpg
    </div>
 
  </div>
-
-![Picture 1](/images/caos.jpg)
