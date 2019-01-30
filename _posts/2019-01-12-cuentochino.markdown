@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "el final del deseo"
-date:   2015-10-07 15:39:40
+date:   2015-10-02 15:39:40
 preview: /images/tania conte miniatura2.jpg
 ---
 

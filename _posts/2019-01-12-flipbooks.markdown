@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "flipbooks"
-date:   2015-10-07 15:39:40
+date:   2015-10-09 15:39:40
 preview: /images/flipbooksmini1.jpg
 ---
 
