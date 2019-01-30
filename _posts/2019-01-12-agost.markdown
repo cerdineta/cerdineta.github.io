@@ -11,7 +11,7 @@ preview: /images/seriagostmini.jpg
 
   <div class="column">
   ENG<br>
-  This image was created for a collective calendar for the year 2018 made with a group of classmates in Massana and corresponds to the month of august. Then I adapted it for being produced as a screen print. <br>
+  This image was created for a collective calendar for the year 2018 made with a group of classmates in Massana and corresponds to the month of august. Later I produced as a screen print. <br>
   </div>
 
    <div class="column">
