@@ -40,6 +40,3 @@ Aquestes imatges van ser creades per a un calendari col.lectiu amb <a href="http
 <font color="#808080">El calendari 2019 tenia com restriccions que cada mes havia d'incloure un animal i un/diversos rombes de la manera que cadascu trobés més adient. El calendari es pot trobar a les llibreries La Central i Abracadabra de Barcelona.</font>
 
 ---
-
-![Picture 1](/images/sketchbook alfabets.jpg)
-Calendari 2018
