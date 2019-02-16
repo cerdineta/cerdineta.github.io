@@ -11,7 +11,7 @@ permalink: /about/
 <div class="column-33">
 
 
-  <img src="/images/selfportrait.jpg" alt="drawing" width="250"><br>
+  <img src="/images/AVATAR.gif" alt="drawing" width="250"><br>
 
 
 <mark><b>cerdineta[at]gmail.com</b></mark><br>
