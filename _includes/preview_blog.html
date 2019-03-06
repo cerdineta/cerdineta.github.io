@@ -1,12 +1,14 @@
-    {% for post in site.blog  %}
-    <div class="block">
-      <span>{{ post.date | date_to_string }} 
+    {% for post in site.blog  %}{% cycle 'add row' : '<div class="block">', '', '' %}
+
+      <span>
       <h3><a href="{{ BASE_PATH }}{{ post.url }}">
-	    {{ post.title }}</a></h3> 
-      <h4 align='right'>{{ post.tags }} </h4>
+	    {{ post.title }}</a></h3>
+      {{ post.date | date_to_string }}
+      <h4 align='right'>{{ post.tags }}</h4>
       </span>
 	<a href="{{ BASE_PATH }}{{ post.url }}"> <img src={{ post.preview }} width=200 style="float:left" border=5 hspace="10"></a>
-        {{ post.content | strip_html | truncatewords:100}}<br>
-            <a href="{{ post.url }}">Read more...</a><br><br>
+        {{ post.content | strip_html | truncatewords:50}}<br><br>
+            <a href="{{ post.url }}">Read more...</a><br><br><br><br><br><br><br>
+
     </div>
     {% endfor %}

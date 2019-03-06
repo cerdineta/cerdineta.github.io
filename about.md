@@ -47,7 +47,7 @@ Napa flipbook competition <font color="#919090">2n prize for flipbook "It is goi
 FLIC Network <font color="#919090">Collective exhibition "Literature and play" 2018</font><br>
 Alliance Française/Goethe Institut of Bologna <font color="#919090">Collective exhibition "Alphabets" 2018</font><br>
 Festival BILL <font color="#919090">Collective exhibition "Chaos" 2018</font><br><br>
-I hope my email in bold and highlighted encourages you to write me a message.
+
 </p>
 </div>
 </div>
