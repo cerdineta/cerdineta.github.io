@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Directa"
-date:   2015-10-11 15:39:40
+date:   2015-10-18 15:39:40
 preview: /images/ladirectacnvmini.jpg
 ---
 

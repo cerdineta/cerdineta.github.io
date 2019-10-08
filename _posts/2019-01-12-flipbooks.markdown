@@ -8,7 +8,7 @@ preview: /images/flipbooksmini1.jpg
 <div class="row">
 
   <div class="column">
-  <img src="/images/itisgoingtobeokay.gif" alt="drawing">
+  <img src="/images/itisgoingtobeokay2.gif" alt="drawing">
 
 </div>
 
@@ -35,7 +35,7 @@ preview: /images/flipbooksmini1.jpg
 <div class="row">
 
   <div class="column">
-    <img src="/images/iwillprotectyou.gif" alt="drawing">
+    <img src="/images/iwillprotectyou2.gif" alt="drawing">
 </div>
 
    <div class="column">
