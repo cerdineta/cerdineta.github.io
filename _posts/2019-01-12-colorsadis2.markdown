@@ -19,37 +19,3 @@ Colaboracion bimestral para la <i> Revista Colors </i> de la <a href="http://www
 <b>Els ocells i els cabells</b><br>
 <i> The birds and the hair </i><br>
 ![Picture 1](/images/els ocells i els cabells petit.jpg)
-
-
----
-
-<b>El pis i el fantasma</b><br>
-<i> The flat and the ghost </i><br>
-![Picture 1](/images/colors 85.jpg)
-
----
-<b>L'home literal</b><br>
-<i> The literal man </i><br>
-<div class="row">
-  <div class="column">
- <img src="/images/colors 84 portada.jpg" alt="drawing">
-  </div>
-
-  <div class="column">
-  Per a aquest numero també vaig realitzar la il·lustració de la portada de la revista. El tema central era el mon de l'espectacle i vaig voler relacionar les dues imatges.<br>
-
-  </div>
-  </div>
-
-![Picture 1](/images/colors 84.jpg)
-
-
----
-<b>Un tren a mitjanit</b><br>
-<i> A train at midnight </i><br>
-![Picture 1](/images/colors 83.jpg)
-
----
-<b>El tatuatge</b><br>
-<i> The tattoo </i><br>
-![Picture 1](/images/colors 82.jpg)<br>
