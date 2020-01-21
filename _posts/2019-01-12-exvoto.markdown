@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ex-voto"
-date:   2015-10-08 15:39:40
+date:   2015-10-02 15:39:40
 preview: /images/exvotpetit2.jpg
 ---
 

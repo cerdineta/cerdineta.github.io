@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "collage"
+date:   2015-10-06 15:39:40
+preview: /images/collage mini.jpg
+---
+ENG<br>
+Current project of a collage a day for 2020.
+
+ <font color="#808080">
+ CAT<br>
+Projecte d'un collage al dia durant el 2020. </font><br>
+
+
+
+![Picture 1](/images/collage89.jpg)
