@@ -16,7 +16,9 @@ Projecte final del CFGS d'Il·lustració de l'Escola Massana. Projecte personal 
 ESP<br>
 Proyecto final del CFGS de Ilustración de la Escola Massana. Proyecto personal que parte del jardin formal francés y se va por las ramas. 160 pags</font><br>
 
+<a href="http://evatoldra.cat/tania-manzanal/">website premi Eva Toldrà 2019</a>
 
 <img src="/images/prohibit.gif" alt="drawing" width="600px">
+
 
 More soon

@@ -26,3 +26,9 @@ Col·laboració amb <i> La Directa </i> publicada en paper al numero 479 per a l
 ![Picture 1](/images/ladirecta485.jpg)
 
 Col·laboració amb <i> La Directa </i> publicada en paper al numero 485 que acompanyava l'article <a href="https://directa.cat/canviar-lescola-per-canviar-el-mon/">Canviar l’escola per canviar el món</a>.
+
+---
+
+![Picture 1](/images/ladirectabesos.jpg)
+
+Col·laboració amb <i> La Directa </i> publicada a la seva web que acompanyava l'article <a href=https://directa.cat/no-oblidem-el-desastre-ecologic-del-besos/">No oblidem el desastre ecologic del Besos</a>.
