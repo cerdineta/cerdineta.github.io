@@ -31,4 +31,4 @@ Col·laboració amb <i> La Directa </i> publicada en paper al numero 485 que aco
 
 ![Picture 1](/images/ladirectabesos.jpg)
 
-Col·laboració amb <i> La Directa </i> publicada a la seva web que acompanyava l'article <a href=https://directa.cat/no-oblidem-el-desastre-ecologic-del-besos/">No oblidem el desastre ecologic del Besos</a>.
+Col·laboració amb <i> La Directa </i> publicada a la seva web que acompanyava l'article <a href="https://directa.cat/no-oblidem-el-desastre-ecologic-del-besos/">No oblidem el desastre ecologic del Besos</a>.
