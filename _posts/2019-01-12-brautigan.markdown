@@ -11,7 +11,7 @@ preview: /images/brautiganpetit.jpg
 
   <div class="column">
   ENG<br>
-Dry-point etching on tetrapack. Hommage to Richard Brautigan, which wrote some of my favorite lines. If you don't know him click <a href="https://www.poetryfoundation.org/poems/48580/december-30">here</a>.<br>
+Dry-point etching on tetrapack. Hommage to Richard Brautigan, which wrote some of my favorite lines. If you don't know him click <a href="https://www.poetryfoundation.org/poets/richard-brautigan">here</a>.<br>
 </div>
 
    <div class="column">
