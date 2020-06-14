@@ -8,17 +8,17 @@ preview: /images/ocamini2.jpg
 
   <div class="column">
   ENG<br>
-  Illustration based on the Goose Game board about censorship on the internet for <a href="https://www.eldiario.es/cuadernos/"><i>eldiario.es</i></a> printed magazine.
+  Illustration based on the Goose Game board about censorship on the internet for <a href="https://www.eldiario.es/cuadernos/"><i>eldiario.es</i></a> printed magazine. AD:David Velasco
   </div>
 
   <div class="column">
   <font color="#808080">CAT<br>
-  Il·lustració per a <a href="https://www.eldiario.es/cuadernos/"><i>eldiario.es</i></a>, impresa  al numero 27 de la revista trimestral.</font>
+  Il·lustració per a <a href="https://www.eldiario.es/cuadernos/"><i>eldiario.es</i></a>, impresa  al numero 27 de la revista trimestral. DA: David Velasco</font>
 </div>
 
   <div class="column">
   <font color="#A9A9A9">ESP<br>
-  Ilustración para <a href="https://www.eldiario.es/cuadernos/"><i>eldiario.es</i></a>, impresa en en numero 27 de la revista trimestral.
+  Ilustración para <a href="https://www.eldiario.es/cuadernos/"><i>eldiario.es</i></a>, impresa en en numero 27 de la revista trimestral. DA: David Velasco
   </font>
   </div>
 
