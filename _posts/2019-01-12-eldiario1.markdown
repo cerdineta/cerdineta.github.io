@@ -9,6 +9,7 @@ preview: /images/ocamini2.jpg
   <div class="column">
   ENG<br>
   Illustration based on the Goose Game board about censorship on the internet for <a href="https://www.eldiario.es/cuadernos/"><i>eldiario.es</i></a>printed magazine.
+  </div>
 
   <div class="column">
   <font color="#808080">CAT<br>
