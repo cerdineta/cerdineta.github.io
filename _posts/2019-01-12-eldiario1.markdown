@@ -22,10 +22,12 @@ preview: /images/ocamini2.jpg
   </div>
 
  </div>
- 
- AD: David Velasco
+
+ AD:David Velasco
+
 
 ![Picture 1](/images/mockup spread blanc.jpg)
+
 
 <div class="row">
 
