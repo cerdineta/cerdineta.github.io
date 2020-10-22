@@ -21,6 +21,8 @@ Colaboracion bimestral para la <i> Revista Colors </i> de la <a href="http://www
 <i> The flute </i><br>
 ![Picture 1](/images/flauta_1.jpg)
 
+In this tale, a parent explains that his daughter is learning to play the flute.
+
 
 ---
 <b>Un tren a mitjanit</b><br>

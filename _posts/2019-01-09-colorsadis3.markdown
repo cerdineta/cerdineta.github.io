@@ -14,11 +14,11 @@ preview: /images/pizza_mini.jpg
 
   <div class="column">
   ENG<br>
-  Series of illustrations for magazine <i> Revista Colors </i> from <a href="http://www.fundacioadis.org/">ADIS Foundation</a> based on short tales by <a href="https://twitter.com/martigau?lang=es">Marc Artigau</a>.<br>
+  Series of illustrations for magazine <i> Revista Colors </i> from <a href="http://www.fundacioadis.org/">ADIS Foundation</a> based on short tales by <a href="https://twitter.com/martigau?lang=es">Marc Artigau</a>. In this tale the main character starts falling in love with someone that strongly believes the earth is flat.<br><br><br>
 
   <font color="#808080">
   CAT<br>
-  Col·laboració bimestral amb la <i> Revista Colors </i> de la <a href="http://www.fundacioadis.org/">Fundacio ADIS</a> il·lustrant contes d'en <a href="https://twitter.com/martigau?lang=es">Marc Artigau</a>.</font><br>
+  Col·laboració bimestral amb la <i> Revista Colors </i> de la <a href="http://www.fundacioadis.org/">Fundacio ADIS</a> il·lustrant contes d'en <a href="https://twitter.com/martigau?lang=es">Marc Artigau</a>.</font><br><br><br>
 
   <font color="#A9A9A9">
   ESP<br>
