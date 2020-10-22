@@ -43,10 +43,18 @@ Illustration <font color="#919090">Escola Massana 2018</font><br>
 Nanoscience <font color="#919090">Autonomous University of Barcelona 2014</font><br><br>
 
 <b>Exhibitions and awards</b><br>
-Premi Eva Toldrà d'il·lustració <font color="#919090">2n prize ex-aequo for <a href="https://cerdineta.github.io/2015/10/18/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> - <a href="http://evatoldra.cat/tania-manzanal/">website premi Eva Toldrà</a> 2019</font> <br>
+<a href="https://www.bdfil.ch/concours-nouveau-talent-2020/">Concours nouveau talent BDFIL (Lausanne)</a> <font color="#919090">2e prix <a href="https://cerdineta.github.io/2015/10/18/projecteprohibit/" >"Spaghetti"</a> 2020 </font> <br>
+
+<a href="https://centralvapeur.org/concours-central-vapeur-10/">Concours Central Vapeur 10 (Strasbourg)</a> <font color="#919090">3e prix <a href="https://cerdineta.github.io/2015/10/18/projecteprohibit/" >"Tout feu tout flamme"</a> 2019 </font> <br>
+
+<a href="http://evatoldra.cat/tania-manzanal/">Premi Eva Toldrà d'il·lustració (Olot) </a> <font color="#919090">2n prize ex-aequo <a href="https://cerdineta.github.io/2015/10/18/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> 2019</font> <br>
+
 Napa flipbook competition <font color="#919090">2n prize for flipbook "It is going to be okay" 2018</font><br>
+
 FLIC Network <font color="#919090">Collective exhibition "Literature and play" 2018</font><br>
+
 Alliance Française/Goethe Institut of Bologna <font color="#919090">Collective exhibition "Alphabets" 2018</font><br>
+
 Festival BILL <font color="#919090">Collective exhibition "Chaos" 2018</font><br><br>
 
 </p>

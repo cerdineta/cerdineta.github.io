@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "revista colors "
-date:   2018-10-11 15:39:40
-preview: /images/colors mini.jpg
+title:  "COLORS varis "
+date:   2015-01-12 15:39:40
+preview: /images/flauta_mini.jpg
 ---
 
 ENG<br>
@@ -17,9 +17,20 @@ ESP<br>
 Colaboracion bimestral para la <i> Revista Colors </i> de la <a href="http://www.fundacioadis.org/">Fundacion ADIS</a> ilustrando cuentos de <a href="https://twitter.com/martigau?lang=es">Marc Artigau</a>.</font><br>
 
 
-<b>El pis i el fantasma</b><br>
-<i> The flat and the ghost </i><br>
-![Picture 1](/images/colors 85.jpg)
+<b>La flauta dolça</b><br>
+<i> The flute </i><br>
+![Picture 1](/images/flauta_1.jpg)
+
+
+---
+<b>Un tren a mitjanit</b><br>
+<i> A train at midnight </i><br>
+![Picture 1](/images/colors 83.jpg)
+
+---
+<b>El tatuatge</b><br>
+<i> The tattoo </i><br>
+![Picture 1](/images/colors 82.jpg)<br>
 
 ---
 <b>L'home literal</b><br>
@@ -36,14 +47,3 @@ Colaboracion bimestral para la <i> Revista Colors </i> de la <a href="http://www
   </div>
 
 ![Picture 1](/images/colors 84.jpg)
-
-
----
-<b>Un tren a mitjanit</b><br>
-<i> A train at midnight </i><br>
-![Picture 1](/images/colors 83.jpg)
-
----
-<b>El tatuatge</b><br>
-<i> The tattoo </i><br>
-![Picture 1](/images/colors 82.jpg)<br>

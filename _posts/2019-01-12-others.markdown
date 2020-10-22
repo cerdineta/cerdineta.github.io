@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "other projects"
-date:   2015-10-07 15:39:40
+title:  "accept the terms and conditions"
+date:   2015-01-07 15:39:40
 preview: /images/terms and conditions mini.jpg
 ---
 
@@ -30,26 +30,3 @@ preview: /images/terms and conditions mini.jpg
 ![Picture 1](/images/terms and conditions.jpg)
 
 ---
-
-<div class="row">
-
-  <div class="column">
-  ENG<br>
-  Image created for the Artisans Assoctiation of Barcelona. It is the tool artisans use the most.<br>
-</div>
-
-   <div class="column">
-   <font color="#808080">
-   CAT<br>
-  Proposta per al Consorci d'Artesania per a una bossa conmemorativa. He volgut representar tots els diferents gremis d'artesans mitjançant l'eina que tots ells tenen en comú.</font><br>
-   </div>
-
-   <div class="column">
-   <font color="#A9A9A9">
-   ESP<br>
-  Propuesta para una bolsa conmemorativa para el Consorcio de Artesania de Barcelona. La herramienta bàsica de qualquier artesano. </font><br>
-   </div>
-
- </div>
-
-![Picture 1](/images/bossaartesania.jpg)
