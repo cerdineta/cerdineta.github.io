@@ -2,11 +2,11 @@
 layout: post
 title:  "La Directa WEB"
 date:   2015-01-26 15:39:40
-preview: /images/biodiv_mini.jpg
+preview: /images/biodiv_mini.png
 ---
 
 
-![Picture 1](/images/biodiv_sencer.jpg)
+![Picture 1](/images/biodiv_sencer.png)
 
 Col·laboració amb <i> La Directa </i> publicada a la seva web que acompanyava l'article <a href="https://directa.cat/conservar-la-biodiversitat-tambe-es-protegir-la-salut-humana/">Conservar la biodiversitat també és protegir la salut humana </a>.
 
