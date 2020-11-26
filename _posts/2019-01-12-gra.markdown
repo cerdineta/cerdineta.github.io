@@ -9,7 +9,7 @@ preview: /images/quadrat portada.jpg
 <div class="row">
 
   <div class="column">
-  <img src="/images/acne_tira.jpg" alt="drawing" width="500">
+  <img src="/images/acne_tira.jpg" alt="drawing">
   </div>
 
   <div class="column">
