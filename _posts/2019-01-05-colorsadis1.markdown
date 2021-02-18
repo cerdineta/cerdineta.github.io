@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COLORS el pis i el fantasma"
-date:   2015-01-22 15:39:40
+date:   2015-01-23 15:39:40
 preview: /images/colors mini.jpg
 ---
 

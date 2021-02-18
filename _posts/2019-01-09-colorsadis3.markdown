@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COLORS la terra és plana"
-date:   2015-01-18 15:39:40
+date:   2015-01-19 15:39:40
 preview: /images/pizza_mini.jpg
 ---
 <b>La terra és plana</b><br>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COLORS 88 cover"
-date:   2015-01-20 15:39:40
+date:   2015-01-21 15:39:40
 preview: /images/ou_mini.jpg
 ---
 

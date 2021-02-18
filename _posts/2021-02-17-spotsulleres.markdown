@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "glasses animated spots"
-date:   2015-01-27 15:39:40
+title:  "glasses spots"
+date:   2015-01-18 15:39:40
 preview: /images/patitaslentas.gif
 ---
 
@@ -30,11 +30,13 @@ preview: /images/patitaslentas.gif
         </div>
 
     <div class="column  column-33">
-      <img src="/images/patitaslentas.gif" alt="gif">
+      <img src="/images/construction.gif" alt="gif">
         </div>
 
     <div class="column  column-33">
-      <img src="/images/patitaslentas.gif" alt="gif">
+      <img src="/images/construction.gif" alt="gif">
         </div>
 
     </div>
+
+  <img src="/images/underconstruction.gif" alt="gif">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "thesis cover design"
-date:   2015-01-24 13:39:40
+date:   2015-01-25 13:39:40
 preview: /images/tesi mini.jpg
 ---
 
