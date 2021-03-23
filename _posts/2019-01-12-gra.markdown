@@ -2,7 +2,7 @@
 layout: post
 title:  "GR-4
 zine"
-date:   2015-01-03 15:39:40
+date:   2020-01-03 15:39:40
 preview: /images/quadrat portada.jpg
 ---
 

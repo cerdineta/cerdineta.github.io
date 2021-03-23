@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "resistències digitals"
-date:   2015-01-28 15:39:40
+date:   2020-01-28 15:39:40
 preview: /images/RD mini.jpg
 ---
 

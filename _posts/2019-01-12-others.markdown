@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "accept the terms and conditions"
-date:   2015-01-07 15:39:40
+date:   2020-01-07 15:39:40
 preview: /images/terms and conditions mini.jpg
 ---
 

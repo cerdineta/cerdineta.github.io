@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "brautigan"
-date:   2015-01-11 15:39:40
+date:   2020-01-11 15:39:40
 preview: /images/brautiganpetit.jpg
 ---
 

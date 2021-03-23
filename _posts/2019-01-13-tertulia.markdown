@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "book club"
-date:   2015-01-14 15:39:40
+date:   2020-01-14 15:39:40
 preview: /images/tertuliamini.jpg
 ---
 

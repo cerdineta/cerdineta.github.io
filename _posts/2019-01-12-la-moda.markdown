@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "la moda"
-date:   2015-01-06 15:39:40
+date:   2020-01-06 15:39:40
 preview: /images/lamodaminiatura.jpg
 
 ---

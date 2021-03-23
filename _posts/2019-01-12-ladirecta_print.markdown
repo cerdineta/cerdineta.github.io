@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Directa PRINT"
-date:   2015-01-20 15:39:40
+date:   2020-01-20 15:39:40
 preview: /images/ladirectacnvmini.jpg
 ---
 

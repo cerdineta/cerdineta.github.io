@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "zine"
-date:   2015-01-13 15:39:40
+title:  "eye
+zine"
+date:   2020-01-13 15:39:40
 preview: /images/zineulls.jpg
 ---
 
