@@ -45,7 +45,7 @@ Nanoscience <font color="#919090">Autonomous University of Barcelona 2014</font>
 
  <font color="#3a57bb">↓↓↓</font> <b>Award winning illustrator no joke</b> <font color="#3a57bb">↓↓↓</font><br>
 
- <a href="https://www.premisjunceda.cat/finalistes-2020/">Premis Junceda. Categoria futurs creadors</a> <font color="#919090">shortlisted <a href="https://cerdineta.github.io/2015/10/17/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> 2020 </font> <br>
+ <a href="https://www.premisjunceda.cat/finalistes-2020/">Premis Junceda. Categoria futurs creadors</a> <font color="#919090">shortlisted <a href="https://cerdineta.github.io/2015/10/1/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> 2020 </font> <br>
 
 <a href="https://www.bdfil.ch/concours-nouveau-talent-2020/">Concours nouveau talent BDFIL</a> <font color="#919090">2e prix <a href="https://cerdineta.github.io/2015/01/24/spaghetti/">"Spaghetti"</a> 2020 </font> <br>
 
