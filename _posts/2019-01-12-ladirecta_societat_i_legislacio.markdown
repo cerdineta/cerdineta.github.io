@@ -6,6 +6,7 @@ preview: /images/ladirecta519 mini.jpg
 ---
 
 
+<img src="/images/ladirecta519 mini.jpg" alt="drawing">
 
 
 <div class="row">
