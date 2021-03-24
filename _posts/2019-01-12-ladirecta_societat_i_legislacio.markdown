@@ -9,11 +9,7 @@ preview: /images/ladirecta519 mini.jpg
 <img src="/images/ladirecta519 mini.jpg" alt="drawing">
 
 
-<div class="row">
 
- <div class="column-60">
-<img src="/images/ladirecta519.jpg" alt="drawing" width="1400px">
- </div>
 
  <div class="column-30">
 
