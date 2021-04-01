@@ -2,7 +2,7 @@
 layout: post
 title:  "resistències digitals"
 date:   2020-01-28 15:39:40
-preview: /images/RD mini.jpg
+preview: /images/resistenciesdigitals_mini.gif
 ---
 
 

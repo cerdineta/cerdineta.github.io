@@ -2,7 +2,7 @@
 layout: post
 title:  "La Directa WEB"
 date:   2020-01-27 15:39:40
-preview: /images/biodiv_mini.png
+preview: /images/ladirectaweb_mini.gif
 ---
 
 
