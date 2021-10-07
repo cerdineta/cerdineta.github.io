@@ -35,4 +35,4 @@ preview: /images/ladirecta531 mini.jpg
 
 
  <img src="/images/ladirecta531 paper.jpg" alt="drawing" >
-    </div>
+  
