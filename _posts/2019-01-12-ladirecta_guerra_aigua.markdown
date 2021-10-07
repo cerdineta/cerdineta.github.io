@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Turkey weaponizing water against Syria"
+title:  "weaponizing water"
 date:   2020-01-28 15:39:41
-preview: /images/ladirecta531 mini1.jpg
+preview: /images/ladirecta531 mini.jpg
 ---
 
 
