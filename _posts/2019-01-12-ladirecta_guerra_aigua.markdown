@@ -13,7 +13,7 @@ preview: /images/ladirecta531 mini.jpg
 
   <div class="column">
   ENG<br>
-  Illustration for the article printed in <i> La Directa </i> n.531 about <a href="https://directa.cat/la-guerra-daigua-de-turquia/">Turkey's water war</a> about the weaponization of water in Syria. <br>
+  Illustration for the article printed in <i> La Directa </i> n.531 titled <a href="https://directa.cat/la-guerra-daigua-de-turquia/">Turkey's water war</a> about the weaponization of water in Syria. <br>
 
   </div>
 
