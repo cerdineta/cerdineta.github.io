@@ -2,7 +2,7 @@
 layout: post
 title:  "weaponizing water"
 date:   2020-01-28 15:39:41
-preview: /images/ladirecta531_miniatura.jpg
+preview: /images/ladirecta531 mini.gif
 ---
 
 
