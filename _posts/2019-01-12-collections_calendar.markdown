@@ -5,13 +5,14 @@ date:   2020-01-25 13:39:40
 preview: /images/collectionscalendar_mini.jpg
 ---
 
-![Picture 1](/images/collectionscalendar1jpg)
+![Picture 1](/images/collectionscalendar1.jpg)
 
 <div class="row">
 
   <div class="column">
 
-   <img src="/images/tesi_impresa.jpg" alt="drawing" width="1400px">
+   <img src="/images/collectionscalendar_paper.jpg" alt="drawing" width="1400px"><br>
+   Image courtsy of <a href="https://www.instagram.com/potatoislike/">Phillip Tang</a>
    </div>
 
    <div class="column">
