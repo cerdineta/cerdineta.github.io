@@ -2,7 +2,7 @@
 layout: post
 title:  "anorgasmia"
 date:   2020-01-28 15:39:41
-preview: /images/orgasmo mini.jpg
+preview: /images/orgasmo mini2.jpg
 ---
 
 
