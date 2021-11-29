@@ -2,7 +2,7 @@
 layout: post
 title:  "anorgasmia"
 date:   2020-01-28 15:39:41
-preview: /images/Vivir El Correo.jpg
+preview: /images/orgasmo mini.jpg
 ---
 
 
@@ -36,6 +36,6 @@ preview: /images/Vivir El Correo.jpg
 
 <div class="column">
 
- <img src="/images/orgasmo paper.jpg" alt="drawing">
+ <img src="/images/collectionscalendar.gif" alt="drawing">
    </div>
      </div>

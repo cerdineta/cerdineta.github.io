@@ -12,7 +12,7 @@ preview: /images/collectionscalendar_mini.jpg
   <div class="column">
 
    <img src="/images/collectionscalendar_paper.jpg" alt="drawing" width="1400px"><br>
-   Image courtsy of <a href="https://www.instagram.com/potatoislike/">Phillip Tang</a>
+   Image courtesy of <a href="https://www.instagram.com/potatoislike/">Phillip Tang</a>
    </div>
 
    <div class="column">
