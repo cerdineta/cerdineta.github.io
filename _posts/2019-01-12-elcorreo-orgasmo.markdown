@@ -36,6 +36,6 @@ preview: /images/orgasmo mini2.jpg
 
 <div class="column">
 
- <img src="/images/collectionscalendar.gif" alt="drawing">
+ <img src="/images/orgasmo paper.jpg" alt="drawing">
    </div>
      </div>

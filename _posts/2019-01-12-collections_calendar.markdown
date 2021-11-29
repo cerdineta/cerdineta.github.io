@@ -35,4 +35,4 @@ preview: /images/collectionscalendar_mini.jpg
 
  </div><br>
 
- ![Picture 1](/images/tesi final 1.jpg)
+ ![Picture 1](/images/collectionscalendar.gif)
