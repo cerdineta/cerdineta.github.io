@@ -12,7 +12,7 @@ preview: /images/collectionscalendar_mini.jpg
   <div class="column">
 
    <img src="/images/collectionscalendar_paper.jpg" alt="drawing" width="1400px"><br>
-   Image courtesy of <a href="https://www.instagram.com/potatoislike/">Phillip Tang</a><br>
+   Image courtesy of <a href="https://www.instagram.com/potatoislike/">Phillip Tang</a><br><br><br>
    <img src="/images/collectionscalendar.gif" alt="drawing" width="1400px">
 
    </div>
@@ -33,7 +33,7 @@ preview: /images/collectionscalendar_mini.jpg
   <a href="https://www.instagram.com/wentingthings/">Wenting Li</a>,
   <a href="https://www.instagram.com/fanny.luor/">Fanny Luor</a>,
   <a href="https://www.instagram.com/dudidudio/">Lu Zhang</a>,
-  <a href="https://www.instagram.com/jenicekimm/">Jenice Kim</a><br>.
+  <a href="https://www.instagram.com/jenicekimm/">Jenice Kim</a>.<br>
   Details:<br>
 11" x 17" Wire-bound with hook in the center
 The calendar is 2-color risograph-printed by <a href="https://perfectly-acceptable.com/">perfectly acceptable</a> in Chicago.<br><br>
