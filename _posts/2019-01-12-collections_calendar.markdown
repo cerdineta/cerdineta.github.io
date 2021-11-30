@@ -12,7 +12,9 @@ preview: /images/collectionscalendar_mini.jpg
   <div class="column">
 
    <img src="/images/collectionscalendar_paper.jpg" alt="drawing" width="1400px"><br>
-   Image courtesy of <a href="https://www.instagram.com/potatoislike/">Phillip Tang</a>
+   Image courtesy of <a href="https://www.instagram.com/potatoislike/">Phillip Tang</a><br>
+   <img src="/images/collectionscalendar.gif" alt="drawing" width="1400px">
+
    </div>
 
    <div class="column">
@@ -48,5 +50,3 @@ Calendario solidario para el año 2022 sobre el tema de las colecciones. Editado
   </div>
 
  </div><br>
-
- ![Picture 1](/images/collectionscalendar.gif)
