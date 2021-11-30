@@ -44,7 +44,7 @@ Calendari solidari sobre el tema de les col·leccions per a l'any 2022. Editat p
 
 
   <font color="#A9A9A9">ESP<br>
-Calendario solidario para el año 2022 sobre el tema de las colecciones. Editado por Suzie Shin y Jenice Kim, impreso por Perfectly Acceptable press. Los beneficios se reparten entre Pilsen Food Pantry en Chicago y Heart of Dinner en Nueva York, ambas organizaciones dedicadas a proporcionas comidas para gente con falta de recursos.
+Calendario solidario para el año 2022 sobre el tema de las colecciones. Editado por Suzie Shin y Jenice Kim, impreso por Perfectly Acceptable press. Los beneficios se reparten entre Pilsen Food Pantry en Chicago y Heart of Dinner en Nueva York, ambas organizaciones dedicadas a garantizar el acceso a la comida para personas y familias con escasez de recursos.
   </font>
 
   </div>
