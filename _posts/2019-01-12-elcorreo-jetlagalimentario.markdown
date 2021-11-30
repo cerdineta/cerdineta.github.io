@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "jet lag alimentario"
+title:  ""jet lag" alimentario"
 date:   2020-01-28 15:39:41
 preview: /images/jetlag_mini2.jpg
 ---
@@ -28,7 +28,7 @@ preview: /images/jetlag_mini2.jpg
 
   <font color="#A9A9A9">
   ESP<br>
-   Colaboración en la sección Vivir de<i> El Correo </i> para el articulo <a href="https://www.elcorreo.com/vivir/nutricion/jet-lag-alimentario-engorda-20211124155051-ntrc.html">Comer cada día a una hora también engorda</a></font><br><br>
+   Colaboración en la sección Vivir de<i> El Correo </i> para el articulo <a href="https://www.elcorreo.com/vivir/nutricion/jet-lag-alimentario-engorda-20211124155051-ntrc.html">Comer cada día a una hora también engorda.</a></font><br><br>
 
   </div>
 
