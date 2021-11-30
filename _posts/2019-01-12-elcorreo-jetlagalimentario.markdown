@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""jet lag" alimentario"
+title:  "jet lag alimentario"
 date:   2020-01-28 15:39:41
 preview: /images/jetlag_mini2.jpg
 ---
