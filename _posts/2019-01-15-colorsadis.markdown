@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COLORS varis "
-date:   2020-01-12 15:39:40
+date:   2020-01-06 15:39:40
 preview: /images/flauta_mini.jpg
 ---
 

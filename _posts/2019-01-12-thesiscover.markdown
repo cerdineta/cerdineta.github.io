@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "thesis cover design"
-date:   2020-01-25 13:39:40
+date:   2020-01-10 13:39:40
 preview: /images/tesi_curt2_mini.gif
 ---
 

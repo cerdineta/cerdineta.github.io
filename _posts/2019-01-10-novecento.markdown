@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "novecento"
-date:   2020-01-16 15:39:40
+date:   2020-01-08 15:39:40
 preview: /images/novecentopetit.jpg
 ---
 

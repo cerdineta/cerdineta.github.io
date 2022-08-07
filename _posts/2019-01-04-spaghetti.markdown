@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "spaghetti COMIC"
-date:   2020-01-24 15:39:40
+date:   2020-01-13 15:39:40
 preview: /images/spa_mini.jpg
 ---
 

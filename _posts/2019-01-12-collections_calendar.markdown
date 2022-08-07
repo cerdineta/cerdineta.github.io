@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2022 collections calendar"
-date:   2020-01-28 15:39:41
+date:   2020-01-21 15:39:41
 preview: /images/collectionscalendar_mini.jpg
 ---
 

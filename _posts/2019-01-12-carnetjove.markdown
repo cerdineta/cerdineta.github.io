@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "beques carnet jove 2022"
-date:   2020-01-25 13:39:40
-preview: /images/carnetjovemini2.jpg
+date:   2020-01-12 13:39:40
+preview: /images/carnetjovemini1.jpg
 ---
 
 <div class="row">
