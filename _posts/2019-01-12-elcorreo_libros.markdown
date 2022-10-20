@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "books and page count"
+date:   2020-01-25 15:39:41
+preview: /images/VIVIR_libros_mini.png
+---
+
+
+![Picture 1](/images/VIVIR_libros_principal.jpg)
+<br><br>
+
+<div class="row">
+
+  <div class="column">
+
+  <br>
+
+  ENG<br>
+  Illustration for the Vivir section of <i> El Correo </i> newspaper for the article titled <a href="https://www.elcorreo.com/vivir/artes/libros-tochos-20220924155401-ntrc.html">Are books getting thicker?</a> that talks about the current trends on the page count of the publishing business.<br>
+  AD Rodrigo Parrado<br>
+  Below some alternative and mostly sillier discarded ideas.
+  <br><br>
+
+
+
+  <font color="#808080">
+  CAT<br>
+  Col·laboració per a la secció Vivir d'<i> El Correo </i> per a l'article <a href="https://www.elcorreo.com/vivir/artes/libros-tochos-20220924155401-ntrc.html">¿Son los libros cada vez más tochos?</a> sobre les tendències del món editorial sobretot pel que fa a l'extensió dels llibres.
+  A sota, un seguit d'idees sobre el tema, sàviament descartades. </font><br><br>
+
+
+
+  <font color="#A9A9A9">
+  ESP<br>
+   Colaboración en la sección Vivir de<i> El Correo </i> para el articulo <a href="https://www.elcorreo.com/vivir/artes/libros-tochos-20220924155401-ntrc.html">¿Son los libros cada vez más tochos?</a> sobre tendencias del mundo editorial en lo que se refiere a la extensión de los libros.
+   Debajo de estas líneas, otras ideas descartadas sobre el tema. </font><br><br>
+
+  </div>
+
+
+
+<div class="column">
+
+ <img src="/images/VIVIR_libros_publicado.jpg" alt="drawing">
+   </div>
+     </div>
+
+
+<br>
+
+
+<div class="row">
+
+  <div class="column">
+  <img src="/images/VIVIR_libros_alt4.jpg" alt="drawing">
+  </div>
+
+  <div class="column">
+  <img src="/images/VIVIR_libros_alt1.jpg" alt="drawing">
+  </div>
+
+  <div class="column">
+  <img src="/images/VIVIR_libros_alt2.jpg" alt="drawing">
+  </div>
+
+ </div>
+
+
+
+ <div class="row">
+
+   <div class="column">
+   <img src="/images/VIVIR_libros_alt5.jpg" alt="drawing">
+   </div>
+
+   <div class="column">
+   <img src="/images/VIVIR_libros_alt3.jpg" alt="drawing">
+   </div>
+
+   <div class="column">
+
+   </div>
+
+  </div>
