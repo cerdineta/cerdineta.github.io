@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "no sense of direction"
-date:   2020-01-31 15:39:41
+title:  "no sense of direction<br>EDITORIAL"
+date:   2020-01-23 15:39:41
 preview: /images/VIVIR_orientacion_mini2.jpg
 ---
 

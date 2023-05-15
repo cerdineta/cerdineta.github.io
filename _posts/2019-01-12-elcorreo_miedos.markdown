@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "irrational fears"
+title:  "irrational fears<br>EDITORIAL"
 date:   2020-01-30 15:39:41
 preview: /images/VIVIR_miedos_mini.jpg
 ---

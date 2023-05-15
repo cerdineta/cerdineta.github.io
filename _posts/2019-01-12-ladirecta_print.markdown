@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La Directa PRINT"
+title:  "La Directa paper selection <br> EDITORIAL"
 date:   2020-01-24 15:39:40
 preview: /images/ladirectacnvmini.jpg
 ---

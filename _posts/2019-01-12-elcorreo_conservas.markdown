@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "canned healthy food"
+title:  "canned healthy food<br>EDITORIAL"
 date:   2020-01-29 15:39:41
 preview: /images/VIVIR_conservas_mini1.jpg
 ---

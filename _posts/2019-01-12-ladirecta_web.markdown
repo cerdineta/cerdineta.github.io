@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La Directa WEB"
+title:  "La Directa website selection<br>EDITORIAL"
 date:   2020-01-05 15:39:40
 preview: /images/ladirectaweb_mini.gif
 ---

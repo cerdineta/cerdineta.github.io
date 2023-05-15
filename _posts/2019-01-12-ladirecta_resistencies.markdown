@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "resistències digitals"
+title:  "resistències digitals<br>EDITORIAL"
 date:   2020-01-25 15:39:40
 preview: /images/resistenciesdigitals_mini.gif
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "societat i legislació"
+title:  "societat i legislació<br>EDITORIAL"
 date:   2020-01-18 15:39:41
 preview: /images/ladirecta519 mini.jpg
 ---

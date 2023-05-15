@@ -11,7 +11,7 @@ permalink: /about/
 <div class="column-33">
 
 
-  <img src="/images/profilepicture2.jpg" alt="the artist begging for jobs"  style="padding: 0 25px 0 0" width="900px"><font size="-3" color="#919090">Next to mural drawing by unknown artist.</font><br>
+  <img src="/images/profilepicture2.jpg" alt="the artist begging for jobs"  style="padding: 0 25px 0 0" width="900px"><font size="-3" color="#919090">I'm the one on the right.</font><br>
 
 
 
@@ -41,6 +41,9 @@ Illustration <font color="#919090">Escola Massana 2018</font><br>
 Nanoscience <font color="#919090">Autonomous University of Barcelona 2014</font><br><br>
 
  <font color="#3a57bb">↓↓↓</font> <b>Award winning illustrator no joke</b> <font color="#3a57bb">↓↓↓</font><br>
+
+ <font color="#3a57bb">→ </font><a href="https://www.premisjunceda.cat/finalistes-2020/">Young and Upcoming Room Fifty</a> <font color="#919090">shortlisted <a href="https://cerdineta.github.io/2020/01/17/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> 2020 </font> <br>
+
 
  <font color="#3a57bb">→ </font><a href="https://www.premisjunceda.cat/finalistes-2020/">Premis Junceda. Categoria futurs creadors</a> <font color="#919090">shortlisted <a href="https://cerdineta.github.io/2020/01/17/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> 2020 </font> <br>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "weaponizing water"
-date:   2020-01-27 15:39:41
+title:  "weaponizing water<br>EDITORIAL"
+date:   2020-01-25 15:39:41
 preview: /images/ladirecta531 mini.gif
 ---
 

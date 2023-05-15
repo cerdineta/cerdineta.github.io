@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "anorgasmia"
+title:  "anorgasmia<br>EDITORIAL"
 date:   2020-01-26 15:39:41
 preview: /images/orgasmo mini2.jpg
 ---
