@@ -42,7 +42,7 @@ Nanoscience <font color="#919090">Autonomous University of Barcelona 2014</font>
 
  <font color="#3a57bb">↓↓↓</font> <b>Award winning illustrator no joke</b> <font color="#3a57bb">↓↓↓</font><br>
 
- <font color="#3a57bb">→ </font><a href="https://www.premisjunceda.cat/finalistes-2020/">Young and Upcoming Room Fifty</a> <font color="#919090">shortlisted <a href="https://cerdineta.github.io/2020/01/17/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> 2020 </font> <br>
+ <font color="#3a57bb">→ </font><a href="https://roomfifty.com/products/fantasmanta-framed-print?variant=39887126233206">Young and Upcoming Room Fifty</a> <font color="#919090"> Top 10 winner <a href="https://cerdineta.github.io/2020/01/20/colorsadis1/" >"Fantasmanta"</a> 2022 </font> <br>
 
 
  <font color="#3a57bb">→ </font><a href="https://www.premisjunceda.cat/finalistes-2020/">Premis Junceda. Categoria futurs creadors</a> <font color="#919090">shortlisted <a href="https://cerdineta.github.io/2020/01/17/projecteprohibit/" >"Prohibit trepitjar la gespa"</a> 2020 </font> <br>
