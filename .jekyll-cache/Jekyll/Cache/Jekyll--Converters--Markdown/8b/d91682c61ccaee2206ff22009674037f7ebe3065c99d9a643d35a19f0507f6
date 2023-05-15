@@ -1,20 +1,12 @@
----
-layout: post
-title:  "Sisyphus in winter COMIC"
-date:   2020-01-30 15:39:41
-preview: /images/sisif9.jpg
----
-
-
-<html>
+I"`<html>
   <head>
 
   <div class="row">
 
     <div class="column">
 
-    ENG<br>
-    Short comic inspired by the greek myth of Sisyphus. Happy accidents or the joys of giving up. Use the arrows!<br><br>
+    ENG<br />
+    Short comic inspired by the greek myth of Sisyphus. Happy accidents or the joys of giving up. Use the arrows!<br /><br />
 
 
     </div>
@@ -23,16 +15,16 @@ preview: /images/sisif9.jpg
 
 
     <font color="#808080">
-    CAT<br>
-    Petit còmic basat en el mite grec de Sísif. Cliqueu a les fletxes per canviar de vinyeta!</font><br><br>
+    CAT<br />
+    Petit còmic basat en el mite grec de Sísif. Cliqueu a les fletxes per canviar de vinyeta!</font><br /><br />
 
        </div>
 
   <div class="column">
 
     <font color="#A9A9A9">
-    ESP<br>
-     Pequeño comic inspirado en el mito griego de Sísifo. Usar las flechas para ir avanzando de viñeta! </font><br><br>
+    ESP<br />
+     Pequeño comic inspirado en el mito griego de Sísifo. Usar las flechas para ir avanzando de viñeta! </font><br /><br />
      </div>
        </div>
 
@@ -42,7 +34,7 @@ preview: /images/sisif9.jpg
       * {
         box-sizing: border-box
       }
-
+    
       .mySlides {
         display: none
       }
@@ -50,7 +42,7 @@ preview: /images/sisif9.jpg
         vertical-align: middle;
       }
       .slideshow-container {
-        max-width: 600px;
+        max-width: 1000px;
         position: relative;
         margin: auto;
       }
@@ -128,85 +120,85 @@ preview: /images/sisif9.jpg
     <div class="slideshow-container">
       <div class="mySlides fade">
         <div class="numbertext">1 / 19</div>
-        <img src="/images/sisif1.jpg" style="width:100%">
+        <img src="/images/sisif1.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">2 / 19</div>
-        <img src="/images/sisif2.jpg" style="width:100%">
+        <img src="/images/sisif2.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">3 / 19</div>
-        <img src="/images/sisif3.jpg" style="width:100%">
+        <img src="/images/sisif3.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">4 / 19</div>
-        <img src="/images/sisif4.jpg" style="width:100%">
+        <img src="/images/sisif4.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">5 / 19</div>
-        <img src="/images/sisif5.jpg" style="width:100%">
+        <img src="/images/sisif5.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">6 / 19</div>
-        <img src="/images/sisif6.jpg" style="width:100%">
+        <img src="/images/sisif6.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">7 / 19</div>
-        <img src="/images/sisif7.jpg" style="width:100%">
+        <img src="/images/sisif7.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">8 / 19</div>
-        <img src="/images/sisif8.jpg" style="width:100%">
+        <img src="/images/sisif8.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">9 / 19</div>
-        <img src="/images/sisif9.jpg" style="width:100%">
+        <img src="/images/sisif9.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">10 / 19</div>
-        <img src="/images/sisif10.jpg" style="width:100%">
+        <img src="/images/sisif10.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">11 / 19</div>
-        <img src="/images/sisif11.jpg" style="width:100%">
+        <img src="/images/sisif11.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">12 / 19</div>
-        <img src="/images/sisif12.jpg" style="width:100%">
+        <img src="/images/sisif12.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">13 / 19</div>
-        <img src="/images/sisif13.jpg" style="width:100%">
+        <img src="/images/sisif13.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">14 / 19</div>
-        <img src="/images/sisif14.jpg" style="width:100%">
+        <img src="/images/sisif14.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">15 / 19</div>
-        <img src="/images/sisif15.jpg" style="width:100%">
+        <img src="/images/sisif15.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">16 / 19</div>
-        <img src="/images/sisif16.jpg" style="width:100%">
+        <img src="/images/sisif16.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">17 / 19</div>
-        <img src="/images/sisif17.jpg" style="width:100%">
+        <img src="/images/sisif17.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">18 / 19</div>
-        <img src="/images/sisif18.jpg" style="width:100%">
+        <img src="/images/sisif18.jpg" style="width:100%" />
       </div>
       <div class="mySlides fade">
         <div class="numbertext">19 / 19</div>
-        <img src="/images/sisif19.jpg" style="width:100%">
+        <img src="/images/sisif19.jpg" style="width:100%" />
       </div>
 
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-    <br>
+    <br />
     <div style="text-align:center">
       <span class="dot" onclick="currentSlide(0)"></span>
       <span class="dot" onclick="currentSlide(1)"></span>
@@ -263,4 +255,5 @@ preview: /images/sisif9.jpg
   </body>
 </html>
 
-<br><br>
+<p><br /><br /></p>
+:ET
