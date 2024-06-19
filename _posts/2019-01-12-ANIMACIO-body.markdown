@@ -56,6 +56,6 @@ preview: /images/HoldYourTongue_TaniaManzanalCerda.gif
 
   <div class="column">
 
-     <img src="/images/TaniaManzanal_Smile.gif" alt="drawing">
+     <img src="/images/Taquicardia_TaniaManzanalCerda.gif" alt="drawing">
     </div>
   </div>
