@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "<b>Society and legislation</b><br>EDITORIAL ILLUSTRATION"
+date:   2020-01-18 15:39:41
+preview: /images/ladirecta519 mini.jpg
+---
+
+
+<div class="row">
+
+ <div class="column-60">
+<img src="/images/ladirecta519.jpg" alt="drawing" width="1400px">
+ </div>
+
+ <div class="column-30">
+
+
+ Illustration for the article printed in <i> La Directa </i> n.519 about <a href="https://directa.cat/les-lleis-i-la-concepcio-de-la-societat-on-vivim/">The law and the conception of the society we live in</a>.<br><br>
+
+
+
+</div>
+
+  </div>
+ <div class="row">
+
+
+ <img src="/images/ladirecta519 paper.jpg" alt="drawing" >
+    </div>

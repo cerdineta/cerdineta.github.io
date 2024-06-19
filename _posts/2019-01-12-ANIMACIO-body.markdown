@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "<b>Selected animations about the body</b><br> LOOP ANIMATIONS"
+date:   2020-01-27 15:39:40
+preview: /images/HoldYourTongue_TaniaManzanalCerda.gif
+---
+
+
+<div class="row">
+<div class="column">
+  <img src="/images/HoldYourTongue_TaniaManzanalCerda.gif" alt="drawing">
+
+</div>
+
+
+<div class="column">
+
+ </div>
+
+ <div class="column">
+
+ <img src="/images/TaniaManzanal_Smile.gif" alt="drawing">
+    </div>
+</div>
+
+
+<div class="row">
+
+  <div class="column">
+
+
+  </div>
+
+
+  <div class="column">
+  <img src="/images/Pardon_TaniaManzanalCerda.gif"  alt="drawing">
+   </div>
+
+   <div class="column">
+
+
+      </div>
+
+    </div>
+
+<div class="row">
+  <div class="column">
+      <img src="/images/NoseWalk1_TaniaManzanal.gif" alt="drawing">
+
+  </div>
+
+
+  <div class="column">
+
+  </div>
+
+  <div class="column">
+
+     <img src="/images/Taquicardia_TaniaManzanalCerda.gif" alt="drawing">
+    </div>
+  </div>
