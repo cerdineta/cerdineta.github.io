@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "<b>Comfort Zone</b><br> MAGAZINE COVER"
-date:   2020-01-17 15:39:40
+date:   2020-01-14 15:39:40
 preview: /images/ou_mini.jpg
 ---
 

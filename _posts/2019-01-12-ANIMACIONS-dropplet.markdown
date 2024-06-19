@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "<b>Droplets</b><br> ANIMATIONS"
-date:   2020-01-31 15:39:41
+date:   2020-01-21 15:39:41
 preview: /images/TaniaManzanal_drops_mini.jpg
 ---
 
@@ -24,4 +24,4 @@ preview: /images/TaniaManzanal_drops_mini.jpg
 </div></div>
 
 <br>
-A series of short animations I made using analogic techniques at a time I was a bit sad. 
+A series of short animations I made using analogic techniques at a time I was a bit sad.

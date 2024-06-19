@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "<b>Ceramic experiments</b><br> OBJECTS"
-date:   2020-01-16 15:39:40
+date:   2020-01-17 15:39:40
 preview: /images/TaniaManzanal_ouroboros_mini.jpg
 ---
 

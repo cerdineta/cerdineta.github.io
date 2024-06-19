@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "<b>The flat and the ghost</b><br> EDITORIAL ILLUSTRATION"
-date:   2020-01-20 15:39:40
+date:   2020-01-27 15:39:40
 preview: /images/pisfantasma_mini.gif
 ---
 
