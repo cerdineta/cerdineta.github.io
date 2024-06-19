@@ -2,7 +2,7 @@
 layout: post
 title:  "<b>Grasse matinée</b><br> PHOTO ZINE"
 date:   2020-01-14 15:39:40
-preview: /images/grassematinee mini1 copy.jpg
+preview: /images/Grassematinee mini1 copy.jpg
 ---
 
 <div class="row">
