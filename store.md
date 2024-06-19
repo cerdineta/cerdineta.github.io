@@ -1,18 +1,13 @@
 ---
 layout: post
-title: <b>Giclée Print Store</b>
+title: giclée print store
 permalink: /store/
 ---
 
 
+Buy prints of my drawings here! These are museum-quality giclée prints on premium, heavyweight (200gsm) art paper. They are fulfilled by mymakeroom.com and shipped worldwide. Yay! <br>
 
-
-
-
-You can buy prints of some of my drawings here. These are museum-quality giclée prints on premium, heavyweight (200gsm) art paper. They are fulfilled by mymakeroom.com and shipped worldwide. Yay! <br>
-
-
-
+Who knows, might be worth a lot when I'm dead! But for now it can decorate your boring walls and support me with the maintenance of my cat's big belly.
 
 <div id='collection-component-1673870187018'></div>
 <script type="text/javascript">

@@ -1,0 +1,64 @@
+I"Ä<div class="row">
+<div class="column">
+
+  <img src="/images/parxes1.jpg" alt="drawing" />
+</div>
+
+
+<div class="column">
+<img src="/images/parxes2.jpg" alt="drawing" />
+ </div>
+
+ <div class="column">
+
+ <img src="/images/parxes3.jpg" alt="drawing" />
+    </div>
+</div>
+
+<div class="row">
+
+  <div class="column">
+
+    <img src="/images/parxes4.jpg" alt="drawing" />
+  </div>
+
+
+  <div class="column">
+  <img src="/images/parxes5.jpg" alt="drawing" />
+   </div>
+
+   <div class="column">
+
+   <img src="/images/parxes6.jpg" alt="drawing" />
+      </div>
+
+    </div>
+
+<div class="row">
+
+    <div class="column">
+    <img src="/images/parxes7.jpg" alt="drawing" />
+    </div>
+
+
+  <div class="column">
+  <img src="/images/parxes8.jpg" alt="drawing" />
+   </div>
+
+   <div class="column">
+   <img src="/images/parxes9.jpg" alt="drawing" />
+      </div>
+  </div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="row"&gt;
+ &lt;div class="column"&gt;
+ &lt;img src="/images/parxes9.jpg" alt="drawing"&gt;
+    &lt;/div&gt;
+  
+
+&lt;div class="column"&gt;
+&lt;img src="/images/parxes9.jpg" alt="drawing"&gt;
+   &lt;/div&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;</p>
+:ET

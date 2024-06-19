@@ -15,8 +15,8 @@ button,
 input[type='button'],
 input[type='reset'],
 input[type='submit'] {
-	background-color: $color-tertiary;
-	border: .1rem solid $color-tertiary;
+	background-color: $color-primary;
+	border: .1rem solid $color-primary;
 	border-radius: .4rem;
 	color: $color-initial;
 	cursor: pointer;
@@ -34,7 +34,7 @@ input[type='submit'] {
 
 	&:focus,
 	&:hover {
-		background-color: $color-tertiary;
+		background-color: $color-secondary;
 		border-color: $color-secondary;
 		color: $color-initial;
 		outline: 0;

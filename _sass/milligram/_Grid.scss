@@ -14,7 +14,7 @@
 .container {
 	margin: 0 auto;
 	max-width: 112.0rem;
-	padding: 0 1.0rem;
+	padding: 0 2.0rem;
 	position: relative;
 	width: 100%;
 }
@@ -27,14 +27,14 @@
 .row {
 	display: flex;
 	flex-direction: column;
-	padding: 1.0rem;
+	padding: 2.0rem;
 	width: 100%;
 
 	&.row-no-padding {
 		padding: 0;
 
 		&> .column {
-			padding: 1.0rem;
+			padding: 2.0rem;
 		}
 	}
 
@@ -71,7 +71,7 @@
 		margin-left: 0;
 		max-width: 100%;
 		width: 100%;
-		padding: 0rem;
+		padding: 2.0rem;
 
 		// Column Offsets
 		&.column-offset-10 {
@@ -88,7 +88,7 @@
 
 		&.column-offset-33,
 		&.column-offset-34 {
-			padding: 1.0rem;
+			padding: 2.0rem;
 			margin-left: 33.3333%;
 		}
 
@@ -98,7 +98,7 @@
 
 		&.column-offset-66,
 		&.column-offset-67 {
-			padding: 1.0rem;
+			padding: 2.0rem;
 			margin-left: 66.6666%;
 		}
 
@@ -196,7 +196,7 @@
 	.row {
 		flex-direction: row;
 		margin-left: -1.0rem;
-		width: calc(100% + 1.0rem);
+		width: calc(100% + 2.0rem);
 
 		.column {
 			margin-bottom: inherit;
