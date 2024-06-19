@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "<b>Novecento</b><br> BOOK ILLUSTRATION"
+date:   2020-01-08 15:39:40
+preview: /images/novecentopetit.jpg
+---
+
+
+
+<div class="row">
+
+<div class="column">
+<img src="/images/novecento1.jpg" alt="drawing">
+</div>
+
+<div class="column">
+Book illustrations for the theatrical monologue "Novecento" by Alessandro Baricco, including the cover design.<br><br>
+
+</div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+ <img src="/images/novecento2.jpg" alt="drawing">
+  </div>
+
+  <div class="column">
+ <img src="/images/novecento4.jpg" alt="drawing">
+  </div>
+  </div>
+
+  <div class="row">
+
+
+   <div class="column-60">
+    <img src="/images/novecento3.jpg" alt="drawing">
+</div>
+
+  <div class="column-30"> <img src="/images/novecento5.jpg" alt="drawing" width="450px">
+    </div>
+      </div>

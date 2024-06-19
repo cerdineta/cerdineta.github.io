@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022 collections calendar"
+title:  "<b>Collections 2022</b><br> COLLECTIVE CALENDAR"
 date:   2020-01-21 15:39:41
 preview: /images/collectionscalendar_mini.jpg
 ---
@@ -18,7 +18,7 @@ preview: /images/collectionscalendar_mini.jpg
    </div>
 
    <div class="column">
-  ENG<br>
+
   <a href="https://2022.bigcartel.com">2022 Collections</a> is a calendar curated and designed by two friends, <a href="https://www.instagram.com/shin_suzie/">Suzie Shin</a> and <a href="https://www.instagram.com/jenicekimm/">Jenice Kim</a>. Each month is illustrated by a different artist who was prompted to depict objects that hold personal meaning or are inherently collectibles.<br>
   All profits will be donated between two non-profit organizations: Pilsen Food Pantry @pilsen_food_pantry in Chicago, and Heart of Dinner @heartofdinner in New York. Both orgs fight food insecurity in their respective cities by delivering love, care, and meals to vulnerable individuals and families.<br>
   Artists in chronological order:
@@ -39,13 +39,6 @@ preview: /images/collectionscalendar_mini.jpg
 The calendar is 2-color risograph-printed by <a href="https://perfectly-acceptable.com/">perfectly acceptable</a> in Chicago.<br><br>
 
 
-  <font color="#808080">CAT<br>
-Calendari solidari sobre el tema de les col·leccions per a l'any 2022. Editat per Suzie Shin i Jenice Kim i imprès per Perfectly Acceptable press. Els beneficis seran repartit entre les ONGs Pilsen Food Pantry a Chicago i Heart of Dinner a Nova York, ambdues organitzacions dedicades a lluitar per proporcionar àpats a persones i families amb falta de recursos.</font><br><br>
-
-
-  <font color="#A9A9A9">ESP<br>
-Calendario solidario para el año 2022 sobre el tema de las colecciones. Editado por Suzie Shin y Jenice Kim, impreso por Perfectly Acceptable press. Los beneficios se reparten entre Pilsen Food Pantry en Chicago y Heart of Dinner en Nueva York, ambas organizaciones dedicadas a garantizar el acceso a la comida para personas y familias con escasez de recursos.
-  </font>
 
   </div>
 

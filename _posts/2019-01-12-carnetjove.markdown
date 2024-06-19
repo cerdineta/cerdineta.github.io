@@ -1,32 +1,13 @@
 ---
 layout: post
-title:  "beques carnet jove 2022"
+title:  "<b>Beques Carnet Jove 2022</b><br> POSTER CAMPAIGN"
 date:   2020-01-12 13:39:40
 preview: /images/carnetjovemini1.jpg
 ---
 
-<div class="row">
+Graphic campaign proposal for the Youth Card scholarships to promote employment in the culture and sports sectors. Each key is supposed to open the door to opportunities in the different categories of the scholarship, counter-clockwise, starting from the top: social action, video production, scenography, graphic design, make-up and hair, audio production, costume coordination, writing, comics, sports, radio and photography. <br>
 
-  <div class="column">
-  ENG<br>
-  Graphic campaign proposal for the Youth Card scholarships to promote employment in the culture and sports sectors. Each key is supposed to open the door to opportunities in the different categories of the scholarship, counter-clockwise, starting from the top: social action, video production, scenography, graphic design, make-up and hair, audio production, costume coordination, writing, comics, sports, radio and photography. <br>
 
-  </div>
-
-  <div class="column">
-  <font color="#808080">
-  CAT<br>
-  Proposta de campanya gràfica per les beques del carnet jove 2022.</font><br>
-
-  </div>
-
-  <div class="column">
-  <font color="#A9A9A9">
-  ESP<br>
-  Propuesta de campana grafica para las becas del carnet jove.</font><br>
-  </div>
-
-  </div>
 
 
 <img src="/images/carnetjovesencer.jpg" alt="drawing">

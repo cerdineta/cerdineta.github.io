@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "<b>The digital resistance</b><br>EDITORIAL ILLUSTRATION"
+date:   2020-01-25 15:39:40
+preview: /images/resistenciesdigitals_mini.gif
+---
+
+
+<div class="row">
+
+
+  <img src="/images/RD 1.jpg" alt="drawing" width="900px">
+</div>
+
+
+<div class="row">
+<img src="/images/RD 2.jpg" alt="drawing" width="900px">
+ </div>
+
+ <div class="row">
+ <div class="column">
+
+ <img src="/images/RD 3 petit.jpg" alt="drawing" width="350px">
+    </div>
+
+ <div class="column">
+
+Several illustrations for <i> La Directa </i> for an article printed in the magazine n.512 that proposed <a href="https://directa.cat/fer-el-salt-a-loligopoli-digital/"> alternatives to the digital oligopoly companies</a> among other things to claim control over how our data is used.<br>
+</div></div>
