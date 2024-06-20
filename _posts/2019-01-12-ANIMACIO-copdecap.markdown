@@ -12,7 +12,6 @@ preview:  /images/CopDeCap_TaniaManzanalCerda_1.gif
 
 </div>
 
-
 <div class="column">
 
  </div></div>

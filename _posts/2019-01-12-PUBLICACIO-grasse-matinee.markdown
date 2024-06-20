@@ -6,7 +6,6 @@ preview:   /images/grasse_mini.jpg
 ---
 
 
-
 <div class="row">
 
 <div class="column">
