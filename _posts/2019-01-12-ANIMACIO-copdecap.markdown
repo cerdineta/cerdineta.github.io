@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "<b>Falling asleep</b><br> LOOP ANIMATION"
-date:   2020-01-27 16:39:40
-preview: /images/CopDeCap_TaniaManzanalCerda_1.gif
+date:   2020-01-26 16:39:40
+preview:  /images/CopDeCap_TaniaManzanalCerda_1.gif
 ---
 
 
