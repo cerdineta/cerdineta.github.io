@@ -2,7 +2,7 @@
 layout: post
 title:  "<b>Falling asleep</b><br> LOOP ANIMATION"
 date:   2020-01-26 16:39:40
-preview:  /images/CopDeCap_TaniaManzanalCerda_1.gif
+preview: /images/Abracadabra_TaniaManzanal_mini.gif
 ---
 
 
