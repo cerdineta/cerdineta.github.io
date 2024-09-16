@@ -2,7 +2,7 @@
 layout: post
 title:  "<b>The digital resistance</b><br>EDITORIAL ILLUSTRATION"
 date:   2020-01-25 15:39:40
-preview: /images/resistenciesdigitals_mini.gif
+preview: /images/TaniaManzanal_resistenciesdigitals_mini.gif
 ---
 
 

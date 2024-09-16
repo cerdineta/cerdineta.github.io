@@ -2,7 +2,7 @@
 layout: post
 title:  "<b>Glasses</b><br>SPOT SERIES"
 date:   2020-01-15 15:39:40
-preview: /images/patitaslentas.gif
+preview: /images/TaniaManzanal_patitassueltas_mini.gif
 ---
 
 

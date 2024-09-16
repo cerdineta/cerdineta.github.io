@@ -7,10 +7,10 @@ permalink: /about/
 
 
 
-I have been a very good girl this last year. As you can see I have made some proper cool drawings and animations, I have doodled quite a bit and had plenty of fun and stupid ideas.
-All I am asking for are some commissions, for editorial illustrations, spot illustration series, book and album covers, gifs, music videos, mascots, posters, comics, objects, texts, etc.
+I have been a very good girl this year. I ate all my veggies, brushed my teeth every day and I even helped an old lady cross the street, once.<br>
+All I am asking for in return are some PAID commissions; for editorial illustrations, spot illustration series, book and album covers, gifs, music videos, mascots, posters, comics, objects, texts, balloon animals, etc. Just whatever really, the only requirement is that there is money involved. In the sense that I get the money, not the other way around.
 
-I know you can see it all from a little hole, but I'm going to list you all the things I have accomplished so far, just in case you got distracted for a moment.<br>
+I know you can see it all from a little hole, but I'm going to list you all the things I have accomplished so far, just in case you got distracted for a second.<br>
 
 <div class="row">
 <div class="column">

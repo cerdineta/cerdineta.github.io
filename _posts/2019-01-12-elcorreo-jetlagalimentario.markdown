@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>Eating jet lag</b><br> EDITORIAL ILLUSTRATION"
+title:  "<b>Meal time jet lag</b><br> EDITORIAL ILLUSTRATION"
 date:   2020-01-28 15:39:41
 preview: /images/jetlag_mini2.jpg
 ---
