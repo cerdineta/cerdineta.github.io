@@ -17,6 +17,7 @@ Final thesis project for the Illustration course at Escola Massana. Self-initiat
 </div>
  <div class="column">
 
+
 <a href="http://evatoldra.cat/tania-manzanal/">Website Eva Toldrà Award 2019</a><br><br>
 More about it <s>soon</s> eventually.
  </div>
