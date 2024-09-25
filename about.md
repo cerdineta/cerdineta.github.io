@@ -46,24 +46,21 @@ Eldiario.es, El Correo, La Directa, Revista Colors, my mum, my friends, my frien
 
 
 
-<img src="/images/profilepicture2.jpg" alt="the artist begging for jobs"  style="padding: 0 25px 0 0" width="900px"><font size="-3" color="#919090">I'm the one on the right.</font><br><br>
+<img src="/images/TaniaManzanal_MirrorSelfie.jpg" alt="the artist begging for jobs"  style="padding: 0 15px 0 0" width="900px"><font size="-3" color="#919090">Currently based in Barcelona</font><br><br>
 
-<p align="left">
-Currently based in Barcelona<br><br>
+
+
 Contact me at <mark><b>cerdineta[at]gmail.com</b></mark><br>
 
-
+<p>
+      
 <li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >Instagram</a>
 </li> /
-
 <li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >Behance</a>
   </li> /
-
 <li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://vimeo.com/cerdineta" >Vimeo</a>
 </li>
-
 </p>
-
 
 
 
@@ -78,4 +75,4 @@ Tània
 
 <br><br>
 
-This website was built in <a href="https://pages.github.com/">Github Pages</a> using the <a href="https://github.com/midzer/urban-theme">urban-theme</a>.
+<font color="#919090">This website was built in <a href="https://pages.github.com/">Github Pages</a> using the <a href="https://github.com/midzer/urban-theme">urban-theme</a>.</font>
