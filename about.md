@@ -50,29 +50,29 @@ Eldiario.es, El Correo, La Directa, Revista Colors, my mum, my friends, my frien
 
 
 
-Contact me at <mark><b>cerdineta[at]gmail.com</b></mark><br>
-
-<p>
-      
-<li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >Instagram</a>
-</li> /
-<li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >Behance</a>
-  </li> /
-<li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://vimeo.com/cerdineta" >Vimeo</a>
-</li>
-</p>
-
-
+<b>Contact</b><br>→
+<mark><a href="mailto:cerdineta@gmail.com">cerdineta[at]gmail.com</a></mark> ←
+<br><br><br>
 
 
 </div></div>
 
 
 
-That's all. Thank you for reading the letter and trying your best to fulfill my wishes.<br>
+Thank you for reading the letter and trying your best to fulfill my wishes.<br>
 Yours truly, <br>
 Tània
 
-<br><br>
+
+<p>
+<li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://instagram.com/{{ site.instagram_username }}" >Instagram</a>
+</li> /
+<li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://behance.net/{{ site.behance_username }}" >Behance</a>
+  </li> /
+<li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://vimeo.com/cerdineta" >Vimeo</a>
+</li>
+(Do not contact me on my socials, I don't hang in there)
+</p>
+
 
 <font color="#919090">This website was built in <a href="https://pages.github.com/">Github Pages</a> using the <a href="https://github.com/midzer/urban-theme">urban-theme</a>.</font>
