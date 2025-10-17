@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <b>Giclée Print Store</b>
+title: <b>Coming soon!</b>
 permalink: /store/
 ---
 
@@ -9,7 +9,7 @@ permalink: /store/
 
 
 
-You can buy prints of some of my drawings here. These are museum-quality giclée prints on premium, heavyweight (200gsm) art paper. They are fulfilled by mymakeroom.com and shipped worldwide. Yay! <br>
+For now if you want something check my instagram or send me an email. Stay tuned, keep eyes peeled, se vienen cositas, lol
 
 
 

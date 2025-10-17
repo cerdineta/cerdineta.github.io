@@ -1,28 +1,45 @@
 ---
 layout: post
-title: Dear Santa
+title:
 permalink: /about/
 ---
 
-
-
-
-I have been a very good girl this year. I ate all my veggies, brushed my teeth every day and I even helped an old lady cross the street, once.<br>
-All I am asking for in return are some PAID commissions; for editorial illustrations, spot illustration series, book and album covers, gifs, music videos, mascots, posters, comics, objects, texts, balloon animals, etc. Just whatever really, the only requirement is that there is money involved. In the sense that I get the money, not the other way around.
-
-I know you can see it all from a little hole, but I'm going to list you all the things I have accomplished so far, just in case you got distracted for a second.<br>
-
 <div class="row">
+
 <div class="column">
+
+Tània Manzanal Cerdà (1992) is an artist <font color="#0000EE"><sup>[citation needed]</sup></font>.<br>  
+Her work is often found in a spectrum between poetic and silly and often stems from the fascination over misunderstandings and misinterpretations.<br>  
+She has worked as an illustrator, mainly editorial, in several continents (2 precisely).<br>
+Besides drawing, her work includes forays into animation, printmaking, books and publications, objects, writing, conceptual work and jokes.<br>
+She is also a failed scientist, a recovering perfectionist, a bird lover, a dreamer (literally, she sleeps a lot) and a shy weirdo.
+<br><br>
+
+
+</div>
+
+<div class="column">
+<img src="/images/ARTiach_TaniaManzanal.jpg" alt="the artist begging for jobs"  style="padding: 0 15px 0 0" width="900px"><font size="-3" color="#919090"> 24/7 making ART  </font>
+
+</div>
+
+</div>
+
+
+
+<div class="column">
+<b>Contact</b><br>→
+<mark><a href="mailto:cerdineta@gmail.com">cerdineta[at]gmail.com</a></mark> ←
+<br><br>
 
 <b>Education</b><br>
 Superior degree in <u>Printed Communication Design</u> at Escola Massana in Barcelona (2024)<br>
 Superior degree in <u>Illustration</u> at Escola Massana in Barcelona (2019)<br>
-Undergraduate degree in <u>Nanoscience</u> at Autonomous University of Barcelona (2014)<br>
-  + Erasmus Exchange at Aarhus University, Denmark<br><br>
+Undergraduate degree in <u>Nanoscience</u> at Autonomous University of Barcelona (2014) + Aarhus University, Denmark<br><br>
 
+<b>Award winning illustrator (no joke)</b><br>
 
-<b>Award winning illustrator, no joke</b><br>
+<a href="https://www.irudika.eus/es/convocatorias"><u>Irudika</u></a>  Animation Resident <a href="https://cerdineta.github.io/2020/01/20/colorsadis1/">"LIQUIDACIÓN TOTAL"</a> (2025)<br>
 
 <a href="https://roomfifty.com/products/fantasmanta-framed-print?variant=39887126233206"><u>Young and Upcoming Room Fifty</u></a>  Top 10 winner <a href="https://cerdineta.github.io/2020/01/20/colorsadis1/">"Fantasmanta"</a> (2022)<br>
 
@@ -38,30 +55,22 @@ Undergraduate degree in <u>Nanoscience</u> at Autonomous University of Barcelona
 <a href="https://www.instagram.com/p/BqRdU8eBT1h/?hl=es"><u>Napa Flipbook Competition</u></a> 2n prize for flipbook "It is going to be okay" (2018)<br><br>
 
 <b>Selected clients</b><br>
-Eldiario.es, El Correo, La Directa, Revista Colors, my mum, my friends, my friends' mums...
-
-</div>
-
-<div class="column">
+Le Particulier, Flocab, Eldiario.es, El Correo, La Directa, Revista Colors, Associació cultural La Tribu, maybe you... <br><br>
 
 
 
-<img src="/images/TaniaManzanal_MirrorSelfie.jpg" alt="the artist begging for jobs"  style="padding: 0 15px 0 0" width="900px"><font size="-3" color="#919090">Currently based in Barcelona</font><br><br>
 
 
 
-<b>Contact</b><br>→
-<mark><a href="mailto:cerdineta@gmail.com">cerdineta[at]gmail.com</a></mark> ←
-<br><br><br>
-
-
-</div></div>
 
 
 
-Thank you for reading the letter and trying your best to fulfill my wishes.<br>
-Yours truly, <br>
-Tània
+
+
+
+
+
+
 
 
 <p>
@@ -71,7 +80,7 @@ Tània
   </li> /
 <li class="nav-item"><a target="_blank" rel="noopener noreferrer"  href="https://vimeo.com/cerdineta" >Vimeo</a>
 </li>
-(Do not contact me on my socials, I don't hang in there)
+
 </p>
 
 
