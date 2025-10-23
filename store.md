@@ -9,7 +9,7 @@ permalink: /store/
 
 
 
-For now if you want something check my instagram or send me an email. Stay tuned, keep eyes peeled, se vienen cositas, lol
+For now if you want something check my instagram or send me an email. 
 
 
 

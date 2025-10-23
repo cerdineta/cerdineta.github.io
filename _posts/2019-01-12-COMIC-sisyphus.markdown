@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "<b>Sisyphus in winter</b><br>COMIC"
-date:   2020-01-30 15:39:41
+date:   2020-01-30 15:39:40
 preview: /images/sisif_mini.jpg
 ---
 
